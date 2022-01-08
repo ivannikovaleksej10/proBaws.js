@@ -4,6 +4,8 @@ proBaws.js it’s
 Probaws — JavaScript plugin which allows you to add a dynamic progress bar to the page, which changes when the page is scrolled.
 
 *   Lightweight javascript — 328b minified and 411b not minified version
+
+*   Lightweight css — 82b minified and 118b not minified version
     
 *   Easy to use
     
