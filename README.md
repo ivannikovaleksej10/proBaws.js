@@ -30,7 +30,7 @@ Copy-paste probaws.min.js and probaws.min.css to your project.
 
 enter right after the opening body tag:
 ```html
-<div class\="progress"\></div\>
+<div class="progress"\></div\>
 ```
 on those pages where you want to see the progress bar
 
