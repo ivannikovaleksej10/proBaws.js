@@ -47,4 +47,4 @@ Write in your main stylesheet:
   
 [Website proBaws.js](https://moblamobla.github.io/proBaws.js/)
 
-© MoblaMobla 2022
+© ivannikovaleksej10 2022
